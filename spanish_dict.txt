@@ -1,39 +1,55 @@
 # Spanish Dictionary
 ## A
+	- **atardecer** = get dark, grow dark (v.)
+		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
 ## B
+	- **belleza, la** = beauty (n.) | inner beauty (n.)
 ## C
-	- claramente = clearly (adv.)
-	- cuello, el = neck, collar 
+	- **cintur—n, el** = belt (n.)
+	- **claramente** = clearly (adv.)
+	- **cuadro, el** = square (n.) | painting (n.) | frame (n.)
+	- **cuello, el** = neck, collar (n.)
 ## D
-	- despejar(se) = clear
+	- **despejar(se)** = clear (v.)
 ## E
-	- estilo, el = style, fashion
+	- **elegir** = choose (v.)
+	- **estilo, el** = style, fashion (n.)
 ## F
 ## G
+	- **gorra, la** = cap (n.)
 ## H
 ## I
 ## J
 ## K
 ## L
 ## M
-	- mente, la = mind
+	- **mente, la** = mind (n.)
 ## N
 ## O
 ## P
-	- pedir = ask for, request, order (restaurant)
-		- pedir prestado = ask to borrow
-	- playera, la = T-shirt for the beach, flip-flop
-	- prestado = borrowed
+	- **pared, la** = wall (n.) | slope, hillside (n.)
+	- **patio, el** = courtyard (n.) | backyard (n.) | orchestra section (n.)
+	- **pedir** = ask for, request (v.) | order [in a restaurant] (v.)
+		- pedir prestado = ask to borrow (ph.)
+	- **piedra, la** = stone, rock (n.) | hailstone (n.)
+	- **playera, la** = T-shirt for the beach (n.) | flip-flop (n.)
+	- **prestado** = borrowed (partic.)
 ## Q
-	- quemar(se) = burn
+	- **quedar** = remain (v.)
+		- **quedar bien** = look good, make a good (ph.) impression
+	- **quemar(se)** = burn (v.)
 ## R
-	- redondo = round (adj.), perfect (adv.)
+	- **redondo** = round (adj.) | perfect (adv.)
+	- **roto** = broken (adj.)
 ## S
-	- sucio = dirty, filthy
+	- **sentar(se)** = sit (v.)
+	- **sill—n, el** = armchair (n.) | rocking chair (n.) | couch (n.)
+	- **sucio** = dirty (adj.) , filthy (adj.)
 ## T
-	- toalla, la = towel
+	- **toalla, la** = towel (n.)
 ## U
 ## V
-	- venir bien = be good for you, do you good, suit someone well
+	- **venir bien** = be good for you, do you good | suit someone well (ph.)
+	- **vista*, la* (n.) = eyesight | view | hearing (in a court)
 ## Y
 ## Z 
