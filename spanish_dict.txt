@@ -1,15 +1,19 @@
 # Spanish Dictionary
 ## A
+	- **algod—n, el** = cotton
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
 ## B
 	- **belleza, la** = beauty (n.) | inner beauty (n.)
+	- **bomb—n, el** = chocolate (n.) | beauty (n.)
 ## C
 	- **cintur—n, el** = belt (n.)
 	- **claramente** = clearly (adv.)
+	- **cortar** = cut (v.)
 	- **cuadro, el** = square (n.) | painting (n.) | frame (n.)
 	- **cuello, el** = neck, collar (n.)
 ## D
+	- **desde** = since (adv.)
 	- **despejar(se)** = clear (v.)
 ## E
 	- **elegir** = choose (v.)
@@ -17,20 +21,25 @@
 ## F
 ## G
 	- **gorra, la** = cap (n.)
+	- **gracioso/-a** = hilarious (adv.), funny (adv.)
 ## H
 ## I
 ## J
+	- **justo** = fair (adj.) | just (adv.)
 ## K
 ## L
+	- **lejos** = far away (adv.)
+		- **a lo lejos** = in the distance (ph.)
 ## M
 	- **mente, la** = mind (n.)
 ## N
 ## O
+	- **oferta, la** = offer (n.), sale (n.)
 ## P
 	- **pared, la** = wall (n.) | slope, hillside (n.)
 	- **patio, el** = courtyard (n.) | backyard (n.) | orchestra section (n.)
 	- **pedir** = ask for, request (v.) | order [in a restaurant] (v.)
-		- pedir prestado = ask to borrow (ph.)
+		- **pedir prestado** = ask to borrow (ph.)
 	- **piedra, la** = stone, rock (n.) | hailstone (n.)
 	- **playera, la** = T-shirt for the beach (n.) | flip-flop (n.)
 	- **prestado** = borrowed (partic.)
@@ -42,14 +51,20 @@
 	- **redondo** = round (adj.) | perfect (adv.)
 	- **roto** = broken (adj.)
 ## S
+	- **seda, la** = silk (n.)
 	- **sentar(se)** = sit (v.)
 	- **sill—n, el** = armchair (n.) | rocking chair (n.) | couch (n.)
+	- **suave, el** = soft (adj.) | smooth (adj.)
 	- **sucio** = dirty (adj.) , filthy (adj.)
 ## T
+	- **tenaza, la** = tong (n.)
+	- **tijera(s), la** = scissors (n.)
 	- **toalla, la** = towel (n.)
 ## U
 ## V
+	- **vecino/-a** = neighbour (n.)
 	- **venir bien** = be good for you, do you good | suit someone well (ph.)
-	- **vista*, la* (n.) = eyesight | view | hearing (in a court)
+	- **V’a L‡ctea** = Milky Way (ph.)
+	- **vista*, la* = eyesight (n.) | view (n.) | hearing (in a court) (n.)
 ## Y
 ## Z 
