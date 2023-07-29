@@ -4,15 +4,23 @@
 	- **acueducto, el** = aqueduct
 	- **adelante** = forward(s) (adv.) | ahead (adv.), further (adv.)
 		**Adelante!** = Come in! (ph.)
+	- **afuera** = outside (adv.)
+		- **afueras, las** = outskirts (n.)
 	- **alegrar** = make happy (v.), cheer up (v.)
 	- **algodón, el** = cotton
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
+	- **avenida, la** = avenue (n.)
+	- **ayuntamiento, el** = city hall (n.)
 ## B
 	- **bajo** = beneath (prep.) | under (prep.)
 	- **belleza, la** = beauty (n.) | inner beauty (n.)
 	- **bombón, el** = chocolate (n.) | beauty (n.)
+	- **banca, la** = bank (n.) | bench (n.)
 ## C
+	- **cajón, el** = drawer
+	- **calentamiento, el** = heating (n.), warming (n.) | warm-up exercise (n.)
+		- **calentamiento global** = global warming (ph.)
 	- **callejero/-a** = stray (adj.), from the street (adj.)
 		- **artistas callejeros** = street artists (ph.)
 	- **cielo, el** = sky
@@ -27,7 +35,9 @@
 	- **cuello, el** = neck, collar (n.)
 ## D
 	- **de ahora en adelante** = from now on (ph.)
+	- **debajo (de)** = underneath (adv.), under (adv.)
 	- **dedo, el** = finger (n.) | toe (n.)
+	- **delante (de)** = in front of (adv.)
 	- **desde** = since (adv.)
 		- **desde [tiempo] hasta [tiempo] = from...to
 	- **desorden, el** = disturbance (n.), mess (n.) | uproar (n.)
@@ -42,10 +52,13 @@
 	- **en verdad** = really (adv.), truly (adv.)
 	- **envidia, la** = envy (n.)
 		- **Qué envidia!** = I am so jealous! (ph.)
+	- **estar de pie** = stand (v.)
 	- **estilo, el** = style, fashion (n.)
 	- **exactidud** = accuracy (n.), precision (n.)
 ## F
 ## G
+	- **girar** = spin (v.) | turn (v.), make a turn (v.)
+	- **grabar** = record (v.), film (v.)
 	- **gorra, la** = cap (n.)
 	- **gracioso/-a** = hilarious (adv.), funny (adv.)
 ## H
@@ -69,6 +82,7 @@
 	- **nadie** = nobody (pron.)
 	- **nevera, la** = refrigerator (n.) , fridge (n.)
 	- **Ni hablar!** = No way (ph.) | You must be kidding! (ph.)
+	- **ningún** = not a single (adj.), any (adj.)
 ## O
 	- **oferta, la** = offer (n.), sale (n.)
 ## P
@@ -93,11 +107,13 @@
 		- **quedar bien** = look good, make a good (ph.) impression
 	- **quemar(se)** = burn (v.)
 ## R
+	- **ramo, el** = bouquet
 	- **recordar** = remember (v.)
 	- **recuerdo** = memory (n.) | souvenir (n.) | 
 		- **recuerdos** = regards (ph.)
 	- **redondo** = round (adj.) | perfect (adv.)
 	- **rodeado/-a** = surrounded (partic.)
+	- **rodilla, la** = knee (n.)
 	- **roto** = broken (adj.)
 ## S
 	- **sala de estar** = living room (n.)
@@ -110,11 +126,14 @@
 	- **suave, el** = soft (adj.) | smooth (adj.)
 	- **suceder** = occur (v.), happen (v.), take place (v.)
 	- **sucio** = dirty (adj.) , filthy (adj.)
+	- **suelo, el** = ground (n.) | 
 	- **sur, el** = south (n.)
 ## T
+	- **taburete, el** = stool (n.)
 	- **tenaza, la** = tong (n.)
 	- **tijera(s), la** = scissors (n.)
 	- **toalla, la** = towel (n.)
+	- **traer** = bring (v.)
 	- **tras** = after (prep.) | behind (prep.)
 	- **trasero/-a** = back (adj.), rear (adj.)
 ## U
