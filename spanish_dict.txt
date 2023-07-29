@@ -4,6 +4,7 @@
 	- **acueducto, el** = aqueduct
 	- **adelante** = forward(s) (adv.) | ahead (adv.), further (adv.)
 		**Adelante!** = Come in! (ph.)
+	- **alegrar** = make happy (v.), cheer up (v.)
 	- **algodón, el** = cotton
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
@@ -55,6 +56,7 @@
 		- **aquí te cobran hasta por respirar** = not even the air is free here (ph.)
 ## I
 ## J
+	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
 	- **justo** = fair (adj.) | just (adv.)
 ## K
 ## L
@@ -64,6 +66,7 @@
 ## M
 	- **mente, la** = mind (n.)
 ## N
+	- **nadie** = nobody (pron.)
 	- **nevera, la** = refrigerator (n.) , fridge (n.)
 	- **Ni hablar!** = No way (ph.) | You must be kidding! (ph.)
 ## O
@@ -81,6 +84,8 @@
 	- **por** = for (prep.) | by (prep.)
 		- **por lo tanto** = therefore (adv.)
 		- **por eso** = for that reason (ph.)
+	- **portón, el** = gate (n.)
+	- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
 	- **prestado** = borrowed (partic.)
 ## Q
 	- **Qué va!** = No way! (ph.), Not at all! (ph.)
@@ -96,12 +101,14 @@
 	- **roto** = broken (adj.)
 ## S
 	- **sala de estar** = living room (n.)
+	- **saltar** = jump (v.), leap (v.)
 	- **seda, la** = silk (n.)
 	- **sentar(se)** = sit (v.)
 	- **sentir** = feel (v.), sense (v.) | hear (v.) | taste (v.)
 	- **sillón, el** = armchair (n.) | rocking chair (n.) | couch (n.)
 	- **sobre** = over (prep.), above (prep.) | approximately (prep.) | about (prep.), relating to (prep.) | over- (pref.)
 	- **suave, el** = soft (adj.) | smooth (adj.)
+	- **suceder** = occur (v.), happen (v.), take place (v.)
 	- **sucio** = dirty (adj.) , filthy (adj.)
 	- **sur, el** = south (n.)
 ## T
@@ -109,6 +116,7 @@
 	- **tijera(s), la** = scissors (n.)
 	- **toalla, la** = towel (n.)
 	- **tras** = after (prep.) | behind (prep.)
+	- **trasero/-a** = back (adj.), rear (adj.)
 ## U
 	- **ubicado/-a** = located (adj.) | situated (adj.) 
 ## V
