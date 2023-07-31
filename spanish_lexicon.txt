@@ -7,10 +7,16 @@
 	- **afortunadamente** = fortunately (adv.), luckily (adv.)
 	- **afuera** = outside (adv.)
 		- **afueras, las** = outskirts (n.)
+	- **ajedrez, el** = chess (n.)
 	- **alegrar** = make happy (v.), cheer up (v.)
 	- **algodón, el** = cotton
+	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
+	- **atender** = look after (v.) | pay attention (v.)
+		- **atender a** = pay attention to (ph.)
+		- **atender el teléfono** = answer the phone (ph.)
+		- **atender llamadas** = answer calls (ph.)
 	- **avenida, la** = avenue (n.)
 	- **ayuntamiento, el** = city hall (n.)
 ## B
@@ -20,6 +26,7 @@
 	- **banca, la** = bank (n.) | bench (n.)
 ## C
 	- **cajón, el** = drawer
+	- **calado hasta los huesos** = soaking wet (adj.)
 	- **calentamiento, el** = heating (n.), warming (n.) | warm-up exercise (n.)
 		- **calentamiento global** = global warming (ph.)
 	- **callejero/-a** = stray (adj.), from the street (adj.)
@@ -53,10 +60,12 @@
 	- **diseño, el** = drawing (n.) | sketch (n.)
 ## E
 	- **elegir** = choose (v.)
+	- **encuentro, el** = meeting (n.)
 	- **entre** = between (prep.)
 	- **en verdad** = really (adv.), truly (adv.)
 	- **envidia, la** = envy (n.)
 		- **Qué envidia!** = I am so jealous! (ph.)
+	- **escena, la** = scene (n.)
 	- **estar de pie** = stand (v.)
 	- **estar por [hacer algo]** = be on the verge to do something (ph.) | in favour of (adv.)
 	- **estilo, el** = style, fashion (n.)
@@ -73,9 +82,13 @@
 		- **aprovechar hasta el ultimo minuto** = make the most of every last minute (ph.)
 		- **aquí hasta los gatos llevan zapatos** = here even the maid wears Prada (ph.)
 		- **aquí te cobran hasta por respirar** = not even the air is free here (ph.)
+	- **hueso, el** = bone (n.)
 ## I
+	- **incluso** = even (adv.)
+	- **insinuar** = imply (v.), insinuate (v.), hint (v.)
 ## J
 	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
+	- **jubilar(se)** = retire
 	- **justo** = fair (adj.) | just (adv.)
 ## K
 ## L
@@ -83,6 +96,7 @@
 		- **a lo lejos** = in the distance (ph.)
 	- **luego** = later (adv.), after (adv.) | then (adv.) | soon (adv.)
 ## M
+	- **maldito/-a** = cursed
 	- **mente, la** = mind (n.)
 ## N
 	- **nadie** = nobody (pron.)
@@ -100,6 +114,7 @@
 		- **para variar** = for change (ph.)
 
 	- **pared, la** = wall (n.) | slope, hillside (n.)
+	- **paso, el** = step (n.)
 	- **patio, el** = courtyard (n.) | backyard (n.) | orchestra section (n.)
 	- **pedir** = ask for, request (v.) | order [in a restaurant] (v.)
 		- **pedir prestado** = ask to borrow (ph.)
@@ -143,6 +158,7 @@
 	- **portón, el** = gate (n.)
 	- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
 	- **prestado** = borrowed (partic.)
+	- **pretendiente, el/la** = candidate (n.) | suitor (n.)
 ## Q
 	- **Qué va!** = No way! (ph.), Not at all! (ph.)
 	- **Qué vida (la tuna)!** = What a life (ph.)
@@ -151,12 +167,15 @@
 	- **quemar(se)** = burn (v.)
 ## R
 	- **ramo, el** = bouquet
+	- **rascar** = scratch (v.), scrape (v.)
+	- **rascarcielos, el** = skyscraper (n.)
 	- **recordar** = remember (v.)
 	- **recuerdo** = memory (n.) | souvenir (n.) | 
 		- **recuerdos** = regards (ph.)
 	- **redondo** = round (adj.) | perfect (adv.)
 	- **rodeado/-a** = surrounded (partic.)
 	- **rodilla, la** = knee (n.)
+	- **romper** = break (v.), smash (v.)
 	- **roto** = broken (adj.)
 ## S
 	- **sala de estar** = living room (n.)
@@ -176,6 +195,7 @@
 	- **tenaza, la** = tong (n.)
 	- **tijera(s), la** = scissors (n.)
 	- **toalla, la** = towel (n.)
+	- **torpe** = clumsy (adj.), butterfingered (adj.)
 	- **traer** = bring (v.)
 	- **tras** = after (prep.) | behind (prep.)
 	- **trasero/-a** = back (adj.), rear (adj.)
