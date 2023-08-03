@@ -2,9 +2,12 @@
 ## A
 	- **acabar** = end (v.), finish (v.), complete (n.)
 	- **acercar(se)** = move close (v.)
+	- **acogedor/-a** = cosy (adj.)
 	- **acordar(se)** = remember (v.)
 	- **acudir a** = go (v.) | attend (v.)
 	- **acueducto, el** = aqueduct
+	- **acuerdo, el** = agreement (n.)
+	- **adecuado/-a** = suitable (adj.)
 	- **adelante** = forward(s) (adv.) | ahead (adv.), further (adv.)
 		**Adelante!** = Come in! (ph.)
 	- **afortunadamente** = fortunately (adv.), luckily (adv.)
@@ -15,6 +18,7 @@
 	- **algodón, el** = cotton
 	- **alguna vez** = ever
 	- **andar** = walk (v.)
+	- **aparcar** = park (v.) | put on hold (v.)
 	- **a punto de** = about to
 	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **asistir** = attend (v.)
@@ -24,14 +28,19 @@
 		- **atender a** = pay attention to (ph.)
 		- **atender el teléfono** = answer the phone (ph.)
 		- **atender llamadas** = answer calls (ph.)
+	- **aún** = still (adv.)
+	- **avanzar** = improve (v.), progress (v.)
 	- **avenida, la** = avenue (n.)
 	- **ayuntamiento, el** = city hall (n.)
 ## B
+	- **banca, la** = bank (n.) | bench (n.)
 	- **bajo** = beneath (prep.) | under (prep.)
 	- **belleza, la** = beauty (n.) | inner beauty (n.)
+	- **boca, la** = mouth (n.)
 	- **bocado, el** = bite (n.)
 	- **bombón, el** = chocolate (n.) | beauty (n.)
-	- **banca, la** = bank (n.) | bench (n.)
+	- **bullicio, el** = noise (n.), βαβούρα (n.)
+	
 ## C
 	- **cajón, el** = drawer
 	- **calado hasta los huesos** = soaking wet (adj.)
@@ -41,6 +50,7 @@
 	- **callejero/-a** = stray (adj.), from the street (adj.)
 		- **artistas callejeros** = street artists (ph.)
 	- **capítulo, el** = chapter (n.)
+	- **cereza, la** = cherry (n.)
 	- **cielo, el** = sky
 	- **cinturón, el** = belt (n.)
 	- **claramente** = clearly (adv.)
@@ -54,6 +64,7 @@
 	- **cortar** = cut (v.)
 	- **cuadro, el** = square (n.) | painting (n.) | frame (n.)
 	- **cuello, el** = neck, collar (n.)
+	- **cuerpo, el** = body (n.)
 ## D
 	- **datar** = date back to (v.), date from (v.)
 	- **de ahora en adelante** = from now on (ph.)
@@ -61,6 +72,7 @@
 	- **dedo, el** = finger (n.) | toe (n.)
 	- **delante (de)** = in front of (adv.)
 	- **desafortunadamente** = unfortunately (adv.)
+	- **desahogar(se)** = vent (v.), βγάζω από μέσα μου (ψυχολογία) (v.)
 	- **descubrimiento, el** = discovery (v.)
 	- **desde** = since (adv.)
 		- **desde luefo** = of course (adv.)
@@ -78,6 +90,7 @@
 	- **encuentro, el** = meeting (n.)
 	- **en persona** = in person (adv.)
 	- **entre** = between (prep.)
+	- **entrenamiento, el ** = training (n.), practise (n.)
 	- **en verdad** = really (adv.), truly (adv.)
 	- **envidia, la** = envy (n.)
 		- **Qué envidia!** = I am so jealous! (ph.)
@@ -86,8 +99,10 @@
 	- **estar por [hacer algo]** = be on the verge to do something (ph.) | in favour of (adv.)
 	- **estilo, el** = style, fashion (n.)
 	- **etapa, la** = stage (n.), phase (n.)
+	- **evadir(se)** = evade (v.), dodge (v.) | escape (reflexv.)
 	- **exactidud** = accuracy (n.), precision (n.)
 ## F
+	- **facturación, la** = billing (n.) | check-in (n.)
 	- **fila, la** = queue (n.), line (n.) | row (n.)
 ## G
 	- **galardón, el** = award
@@ -104,8 +119,11 @@
 		- **aquí te cobran hasta por respirar** = not even the air is free here (ph.)
 	- **hueso, el** = bone (n.)
 ## I
+	- **importat** = matter (v.)
 	- **incluso** = even (adv.)
+	- **inolvidable** = unforgettable (adj.)
 	- **insinuar** = imply (v.), insinuate (v.), hint (v.)
+	- **inversión, la** = investment (n.)
 ## J
 	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
 	- **jubilar(se)** = retire
@@ -114,27 +132,35 @@
 ## L
 	- **lejos** = far away (adv.)
 		- **a lo lejos** = in the distance (ph.)
+	- **llorar** = cry (v.)
 	- **luego** = later (adv.), after (adv.) | then (adv.) | soon (adv.)
 ## M
 	- **maldito/-a** = cursed (adj.)
 	- **medalla, la** = medal (n.)
 	- **mente, la** = mind (n.)
+	- **miedo, el** = fear (n.) | horror (n.)
+		= **miedo a las alturas** = fear of heights (ph.)
 	- **mitad, la** = half (n.)
 ## N
 	- **nadar** = swim (v.)
 		- **nadador/-a** = swimmer (adj.)
 	- **nadie** = nobody (pron.)
+	- **nariz, la** = nose (n.)
 	- **nevera, la** = refrigerator (n.) , fridge (n.)
 	- **Ni hablar!** = No way (ph.) | You must be kidding! (ph.)
 	- **ningún** = not a single (adj.), any (adj.)
 	- **ni más ni menos que** = no more no less (ph.), πάνω κάτω (ph.)
 	- **ni mucho menos** = by a long chalk (ph.), by no means (ph.), ούτε κατά διάνοια (ph.)
 ## O
+	- **odisea, la** = odyssey (n.)
 	- **oferta, la** = offer (n.), sale (n.)
 ## P
 	- **papel** = paper (n.)
-	- **para** = for (prep.)
+	- **para** = for (prep.) | in order to (prep.) | to (prep.)
 		- **para dónde** = where to (ph.)
+		- **para nada** = not at all (adv.)
+		- **para que** = so that (adv.)
+		- **para qué** = for what reason (adv.)
 		- **para siempre** = forever (adv.)
 		- **para ti** = for you (ph.) 
 		- **para variar** = for change (ph.)
@@ -149,12 +175,13 @@
 	- **piedra, la** = stone, rock (n.) | hailstone (n.)
 	- **playera, la** = T-shirt for the beach (n.) | flip-flop (n.)
 	- **ponencia, la** = talk (n.), presentation (n.) | paper (n.), report (n.)
-	- **por** = for (prep.) | by (prep.)
+	- **por** = for (prep.) | by (prep.) | on behalf (prep.) | through (prep.) | per (prep.)
 		- **por adelantado** = in advance (ph.)
 		- **por ahora** = for now (ph.)
 		- **por aquí** = around here
 		- **por casualidad** = by chance (adv.)
 		- **por ciento** = percent (n.)
+		- **por cierto** = by the way (adv.)
 		- **por completo** = completely
 		- **por desgracia** = unfortunately (adv.)
 		- **por Dios** = for God's sake (ph.)
@@ -185,9 +212,12 @@
 		- **por un lado...por el otro** = on the one hand...on the other hand (ph.)
 	- **portón, el** = gate (n.)
 	- **preñez, la** = animal gestation (n.)
-	- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
+	- **preocupación, la** = worry (n.), concern (n.)
+		- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
 	- **prestado** = borrowed (partic.)
 	- **pretendiente, el/la** = candidate (n.) | suitor (n.)
+	- **provecho, el** = benefit (n.), advantage (n.)
+	- **pulmon, el** = lung (n.)
 ## Q
 	- **queja, la** = complaint (n.)
 	- **Qué va!** = No way! (ph.), Not at all! (ph.)
@@ -195,24 +225,32 @@
 	- **quedar** = remain (v.)
 		- **quedar bien** = look good, make a good (ph.) impression
 	- **quemar(se)** = burn (v.)
+	- **quizá(s)** = perhaps (adv.), maybe (adv.)
 ## R
 	- **ramo, el** = bouquet
 	- **rascar** = scratch (v.), scrape (v.)
 	- **rascarcielos, el** = skyscraper (n.)
+	- **realidad, la** = reality (n.)
 	- **recordar** = remember (v.)
 	- **recuerdo** = memory (n.) | souvenir (n.) | 
 		- **recuerdos** = regards (ph.)
 	- **redondo** = round (adj.) | perfect (adv.)
-	- **retraso, el** = delay (n.)
+	- **relajación, la** = relaxation (n.)
+	- **repetir** = repeat (v.)
+	- **respiración, la** = breathing (n.)
+	- **retrasar** = delay (v.), postpone (v.)
+		- **retraso, el** = delay (n.)
 	- **rodeado/-a** = surrounded (partic.)
 	- **rodilla, la** = knee (n.)
 	- **romper** = break (v.), smash (v.)
 	- **roto** = broken (adj.)
 ## S
+	- **sacar provecho** = benefit (v.)
 	- **sala de estar** = living room (n.)
 	- **saltar** = jump (v.), leap (v.)
 	- **sangre, la** = blood (n.)
 	- **seda, la** = silk (n.)
+	- **senderismo, el** = hiking (n.)
 	- **sentar(se)** = sit (v.)
 	- **sentir** = feel (v.), sense (v.) | hear (v.) | taste (v.)
 	- **siglo, el** = century
@@ -231,13 +269,16 @@
 	- **tener lugar** = take place (v.)
 	- **tijera(s), la** = scissors (n.)
 	- **toalla, la** = towel (n.)
+	- **tomar aire** = take breath (v.)
+	- **tomar el sol** = sunbathe (v.)
 	- **tomo, el** = volume
 	- **torpe** = clumsy (adj.), butterfingered (adj.)
 	- **traer** = bring (v.)
 	- **tras** = after (prep.) | behind (prep.)
 	- **trasero/-a** = back (adj.), rear (adj.)
 ## U
-	- **ubicado/-a** = located (adj.) | situated (adj.) 
+	- **ubicado/-a** = located (adj.) | situated (adj.)
+	- **urbanita** = city dweller (adj.)
 ## V
 	- **vecino/-a** = neighbour (n.)
 	- **venir bien** = be good for you, do you good | suit someone well (ph.)
