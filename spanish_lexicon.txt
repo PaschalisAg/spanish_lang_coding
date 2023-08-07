@@ -1,7 +1,7 @@
 # Spanish Dictionary
 ## A
 	- **acabar** = end (v.), finish (v.), complete (n.)
-	- **acercar(se)** = move close (v.)
+	- **acercar(se)** = move close (v.), approach (v.)
 	- **acogedor/-a** = cosy (adj.)
 	- **acordar(se)** = remember (v.)
 	- **acudir a** = go (v.) | attend (v.)
@@ -17,11 +17,14 @@
 	- **alegrar** = make happy (v.), cheer up (v.)
 	- **algodón, el** = cotton
 	- **alguna vez** = ever
+	- **ambos** = both (pron.) [formal] [see **los dos**]
 	- **andar** = walk (v.)
+	- **apagar** = switch off (v.), turn out (v.)
 	- **aparcar** = park (v.) | put on hold (v.)
 	- **a punto de** = about to
 	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **asistir** = attend (v.)
+	- **asustar** = scare (v.), frighten (v.)
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
 	- **atender** = look after (v.) | pay attention (v.)
@@ -43,6 +46,7 @@
 	- **bullicio, el** = noise (n.), βαβούρα (n.)
 	
 ## C
+	- **caer(se)** = fall (v.)
 	- **cajón, el** = drawer
 	- **calado hasta los huesos** = soaking wet (adj.)
 	- **calentamiento, el** = heating (n.), warming (n.) | warm-up exercise (n.)
@@ -50,13 +54,16 @@
 		- **calentamiento global** = global warming (ph.)
 	- **callejero/-a** = stray (adj.), from the street (adj.)
 		- **artistas callejeros** = street artists (ph.)
+	- **campesino/-a, el/la** = farmer (n.)
 	- **cangrejo, el** = crab (n.)
 	- **capítulo, el** = chapter (n.)
 	- **cereza, la** = cherry (n.)
+	- **charco, el** = puddle (n.)
 	- **cielo, el** = sky
 	- **cinturón, el** = belt (n.)
 	- **claramente** = clearly (adv.)
 	- **colgar** = hang (v.), put up (v.)
+	- **conducir** = drive (v.)
 	- **conmemorar** = commemorate (v.)
 	- **contactar** = make contact with (v.), get in touch (v.)
 	- **contar** = tell (v.), narrate (v.) | count (v.)
@@ -72,6 +79,7 @@
 	- **darse cuenta (de algo)** = notice (v.)| realise (v.)
 	- **datar** = date back to (v.), date from (v.)
 	- **de ahora en adelante** = from now on (ph.)
+	- **de repente** = unfortunately (adv.)
 	- **debajo (de)** = underneath (adv.), under (adv.)
 	- **dedo, el** = finger (n.) | toe (n.)
 	- **delante (de)** = in front of (adv.)
@@ -83,6 +91,8 @@
 	- **desde** = since (adv.)
 		- **desde luefo** = of course (adv.)
 		- **desde [tiempo] hasta [tiempo] = from...to
+	- **desencandenar** = unchain (v.) | trigger (v.)
+	- **desgraciadamente** = unfortunately (adv.)
 	- **desnudar(se)** = undress (v.)
 		- **desnudo/-a** = naked
 	- **desorden, el** = disturbance (n.), mess (n.) | uproar (n.)
@@ -95,17 +105,22 @@
 	- **diseñar** = design (v.)
 	- **diseño, el** = drawing (n.) | sketch (n.)
 	- **durante** = during (prep.)
+	- **divorciar(se)** = divorce (v.), get divorced (v.)
 ## E
+	- **ejercer** = practise a profession (v.), work as (v.)
 	- **elegir** = choose (v.)
 	- **embarazo, el** = pregnancy (n.)
+	- **encandenar** = chain (v.)
 	- **encuentro, el** = meeting (n.)
 	- **en persona** = in person (adv.)
 	- **entre** = between (prep.)
 	- **entrenamiento, el ** = training (n.), practise (n.)
+	- **entretenimiento, el** = entertainment (n.)
 	- **en verdad** = really (adv.), truly (adv.)
 	- **envidia, la** = envy (n.)
 		- **Qué envidia!** = I am so jealous! (ph.)
 	- **escena, la** = scene (n.)
+	- **escoger** = pick (v.), choose (v.)
 	- **estar de pie** = stand (v.)
 	- **estar por [hacer algo]** = be on the verge to do something (ph.) | in favour of (adv.)
 	- **estilo, el** = style, fashion (n.)
@@ -115,6 +130,7 @@
 ## F
 	- **facturación, la** = billing (n.) | check-in (n.)
 	- **fila, la** = queue (n.), line (n.) | row (n.)
+	- **fundar** = found (v.), establish (v.)
 ## G
 	- **galardón, el** = award
 	- **girar** = spin (v.) | turn (v.), make a turn (v.)
@@ -134,6 +150,7 @@
 	- **incluso** = even (adv.)
 	- **inolvidable** = unforgettable (adj.)
 	- **insinuar** = imply (v.), insinuate (v.), hint (v.)
+	- **instrucción, el** = education (n.) | training (n.)
 	- **inversión, la** = investment (n.)
 ## J
 	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
@@ -143,15 +160,24 @@
 ## L
 	- **lejos** = far away (adv.)
 		- **a lo lejos** = in the distance (ph.)
+	- **ley, la** = law (n.)
+	- **leyenda, la** = legend (n.)
+	- **lider/-esa el, la** = leader
+	- **linterna, la** = torch (n.), flashlight (n.)
 	- **llorar** = cry (v.)
+	- **lograr** = manage (v.)| reach (v.)
+	- **los dos** = both (pron.) [informal] [see **ambos**]
+	- **luchar** = fight (v.)
 	- **luego** = later (adv.), after (adv.) | then (adv.) | soon (adv.)
 ## M
 	- **maldito/-a** = cursed (adj.)
+	- **matrimonio, el** = marriage (n.)
 	- **medalla, la** = medal (n.)
 	- **mente, la** = mind (n.)
 	- **miedo, el** = fear (n.) | horror (n.)
 		= **miedo a las alturas** = fear of heights (ph.)
 	- **mientras** = in the meantime (adv.), while (adv.)
+	- **minero/-a, el/la** = miner (n.) | mining (adj.)
 	- **mitad, la** = half (n.)
 	- **muñeca, la** = doll (n.)
 ## N
@@ -160,6 +186,7 @@
 		- **nadador/-a** = swimmer (adj.)
 	- **nadie** = nobody (pron.)
 	- **nariz, la** = nose (n.)
+	- **negar** = deny (v.), reject (v.)
 	- **nevera, la** = refrigerator (n.) , fridge (n.)
 	- **nervio, el** = nerve (n.)
 	- **Ni hablar!** = No way (ph.) | You must be kidding! (ph.)
@@ -167,10 +194,12 @@
 	- **ni más ni menos que** = no more no less (ph.), πάνω κάτω (ph.)
 	- **ni mucho menos** = by a long chalk (ph.), by no means (ph.), ούτε κατά διάνοια (ph.)
 ## O
+	- **obra, la** = work (n.), intellectual product (n.)
 	- **odisea, la** = odyssey (n.)
 	- **oferta, la** = offer (n.), sale (n.)
 	- **olla, la** = pot (n.)| pan (n.)
 	- **orilla, la** = shore (n.)
+	- **oso/-a, el, la** = bear (n.)
 ## P
 	- **papel** = paper (n.)
 	- **para** = for (prep.) | in order to (prep.) | to (prep.)
@@ -192,8 +221,10 @@
 		- **perder los nervios** = lose the cool (ph.), freak out (v.)
 	- **pie** = foot (n.) | bottom (n.) | end (n.)
 	- **piedra, la** = stone, rock (n.) | hailstone (n.)
+	- **pisar** = step on (v.)
 	- **playera, la** = T-shirt for the beach (n.) | flip-flop (n.)
 	- **ponencia, la** = talk (n.), presentation (n.) | paper (n.), report (n.)
+	- **poner los pelos de punta** = make your hair stand on (ph.)
 	- **por** = for (prep.) | by (prep.) | on behalf (prep.) | through (prep.) | per (prep.)
 		- **por adelantado** = in advance (ph.)
 		- **por ahora** = for now (ph.)
@@ -231,6 +262,7 @@
 		- **por un lado...por el otro** = on the one hand...on the other hand (ph.)
 		- **por un rato** = for a while (adv.)
 	- **portón, el** = gate (n.)
+	- **premio, el** = award (n.), prize (n.)
 	- **preñez, la** = animal gestation (n.)
 	- **preocupación, la** = worry (n.), concern (n.)
 		- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
@@ -275,6 +307,7 @@
 	- **senderismo, el** = hiking (n.)
 	- **sentar(se)** = sit (v.)
 	- **sentir** = feel (v.), sense (v.) | hear (v.) | taste (v.)
+	- **sigla, la** = initials (n.)
 	- **siglo, el** = century
 	- **sillón, el** = armchair (n.) | rocking chair (n.) | couch (n.)
 	- **sobre** = over (prep.), above (prep.) | approximately (prep.) | about (prep.), relating to (prep.) | over- (pref.)
@@ -305,6 +338,7 @@
 	- **ubicado/-a** = located (adj.) | situated (adj.)
 	- **urbanita** = city dweller (adj.)
 ## V
+	- **valiente** = brave (adj.), courageous (adj.)	
 	- **vecino/-a** = neighbour (n.)
 	- **venir bien** = be good for you, do you good | suit someone well (ph.)
 	- **Vía Láctea** = Milky Way (ph.)
