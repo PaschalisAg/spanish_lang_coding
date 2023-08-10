@@ -18,13 +18,17 @@
 		- **afueras, las** = outskirts (n.)
 	- **ajedrez, el** = chess (n.)
 	- **alegrar** = make happy (v.), cheer up (v.)
+	- **alejar(se)** = move away (v.), pull apart (v.)
+	- **alfombra, la** = rug (n.), carpet (n.)
 	- **algodón, el** = cotton
 	- **alguna vez** = ever
 	- **ambos** = both (pron.) [formal] [see **los dos**]
+	- **amistad, la** = friendship (n.)
 	- **andar** = walk (v.)
 	- **apagar** = switch off (v.), turn out (v.)
 	- **aparcar** = park (v.) | put on hold (v.)
 	- **a punto de** = about to
+	- **a ratos** = from time to time (adv.)
 	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **asistir** = attend (v.)
 	- **asustar** = scare (v.), frighten (v.)
@@ -36,6 +40,7 @@
 		- **atender llamadas** = answer calls (ph.)
 	- **aún** = still (adv.)
 	- **avanzar** = improve (v.), progress (v.)
+	- **a ver** = let's see (ph.)
 	- **avenida, la** = avenue (n.)
 	- **aviso, el** = warning (n.) | advertisement (n.)
 	- **ayuntamiento, el** = city hall (n.)
@@ -46,6 +51,7 @@
 	- **boca, la** = mouth (n.)
 	- **bocado, el** = bite (n.)
 	- **bombón, el** = chocolate (n.) | beauty (n.)
+	- **brindis, el** = toast [with drinks] (n.)
 	- **bullicio, el** = noise (n.), βαβούρα (n.)
 	
 ## C
@@ -64,6 +70,7 @@
 	- **capítulo, el** = chapter (n.)
 	- **celo, el** = zeal (n.), enthusiacm (n.)
 		- **celos, los** = jealousy (n.)
+		- **celoso/-a** = jealous (adj.)
 	- **cerebral** = rational (adj.) | brain (n as adj.)
 	- **cereza, la** = cherry (n.)
 	- **chaleco, el** = waistcoat (n.), vest (n.)
@@ -80,6 +87,8 @@
 	- **contactar** = make contact with (v.), get in touch (v.)
 	- **contar** = tell (v.), narrate (v.) | count (v.)
 	- **contra** = against (prep.)
+	- **convencer** = impress (v.)
+		- **convencer a [alguien de que haga algo] = convince [sb] to do [sth] (v.)
 	- **conocimiento, el** = knowledge (n.) | consciousness (n.)
 	- **corbata, la** = tie (n.) , necktie (n.)
 	- **correo, el** = mail (n.), post (n.) | post office (n.)
@@ -123,10 +132,13 @@
 	- **ejercer** = practise a profession (v.), work as (v.)
 	- **elegir** = choose (v.)
 	- **embarazo, el** = pregnancy (n.)
+	- **empujar** = push (v.)
 	- **encandenar** = chain (v.)
 	- **encender** = turn on (v.), switch on (v.)
+	- **en cuanto a** = with regard to (adv.)
 	- **encuentro, el** = meeting (n.)
 	- **en persona** = in person (adv.)
+	- **enseguida** = immediately (adv.)
 	- **entre** = between (prep.)
 	- **entrenamiento, el ** = training (n.), practise (n.)
 	- **entretenimiento, el** = entertainment (n.)
@@ -144,6 +156,9 @@
 	- **excepto** = except (prep.)
 ## F
 	- **facturación, la** = billing (n.) | check-in (n.)
+	- **falda, la** = skirt (n.) | slope (n.)
+	- **fiar** = sell on credit (v.) | vouch for (v.)
+		- **fiarse de** = trust (v.)
 	- **fila, la** = queue (n.), line (n.) | row (n.)
 	- **fraile, el** = monk (n.) | monkfish (n.)
 	- **fundar** = found (v.), establish (v.)
@@ -199,6 +214,9 @@
 	- **mientras** = in the meantime (adv.), while (adv.)
 	- **minero/-a, el/la** = miner (n.) | mining (adj.)
 	- **mitad, la** = half (n.)
+	- **molestar(se)** = bother (v.), disturb (v.) | be offended (reflexv.)
+		- **molestarse en** = take the trouble to (prep.)
+	- **mueble, el** = furniture (n.)
 	- **muñeca, la** = doll (n.)
 ## N
 	- **nacer** = born (v.)
@@ -317,6 +335,7 @@
 	- **respiración, la** = breathing (n.)
 	- **retrasar** = delay (v.), postpone (v.)
 		- **retraso, el** = delay (n.)
+	- **revista, la** = magazine (n.) | journal (n.)
 	- **riqueza, la** = wealth (n.)
 	- **rodeado/-a** = surrounded (partic.)
 	- **rodilla, la** = knee (n.)
@@ -336,6 +355,7 @@
 	- **sigla, la** = initials (n.)
 	- **siglo, el** = century
 	- **sillón, el** = armchair (n.) | rocking chair (n.) | couch (n.)
+	- **sincero/-a** = sincere (adj.)
 	- **sobre** = over (prep.), above (prep.) | approximately (prep.) | about (prep.), relating to (prep.) | over- (pref.)
 	- **socorrista, el** = lifeguard (n.) | rescuer (n.)
 	- **sonar(se)** = sound (v.)| blow the nose (reflexv.) | ring [bell, phone)] (v.)
@@ -354,6 +374,8 @@
 	- **tener lugar** = take place (v.)
 	- **terremoto, el** = earthquake (n.)
 	- **tijera(s), la** = scissors (n.)
+	- **tirar** = throw (v.)
+		- **tirar de** = pull (v.)
 	- **toalla, la** = towel (n.)
 	- **tomar aire** = take breath (v.)
 	- **tomar el sol** = sunbathe (v.)
@@ -362,6 +384,8 @@
 	- **traer** = bring (v.)
 	- **tras** = after (prep.) | behind (prep.)
 	- **trasero/-a** = back (adj.), rear (adj.)
+	- **tratar** = look at (v.) | have dealings with (v.) | treat
+		- **tratarse de** = be about (reflexv.)
 ## U
 	- **ubicado/-a** = located (adj.) | situated (adj.)
 	- **urbanita** = city dweller (adj.)
