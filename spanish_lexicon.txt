@@ -17,6 +17,7 @@
 	- **afortunadamente** = fortunately (adv.), luckily (adv.)
 	- **afuera** = outside (adv.)
 		- **afueras, las** = outskirts (n.)
+	- **agarrar** = grab (v.)
 	- **agregar** = add (v.)
 	- **ajedrez, el** = chess (n.)
 	- **alcalde/-sa, el/la** = mayor (n.)
@@ -63,6 +64,8 @@
 	- **bullicio, el** = noise (n.), βαβούρα (n.)
 	
 ## C
+	- **caducar** = expire (v.)
+		- **caducado/-a** = expired (adj.)
 	- **caer(se)** = fall (v.)
 	- **cajón, el** = drawer
 	- **calado hasta los huesos** = soaking wet (adj.)
@@ -95,7 +98,8 @@
 	- **claramente** = clearly (adv.)
 	- **colgar** = hang (v.), put up (v.)
 	- **colocar** = place (v.) | hang [wall] (v.) | find [sb] a job (v.) | invest (v.) | tidy up (v.)
-	- **compobar** = confirm (v.) | check (v.), test (v.) | prove (v.)
+	- **comprobar** = confirm (v.) | check (v.), test (v.) | prove (v.)
+	- **comprensivo** = understanding (adj.)
 	- **conducir** = drive (v.)
 	- **conmemorar** = commemorate (v.)
 	- **conseguir** = get (v.), obtain (v.)
@@ -146,6 +150,7 @@
 		- **Qué desorden!** = What a mess!
 	- **despejar(se)** = clear (v.)
 	- **detalle, el** = detail (n.)
+	- **detener(se)** = stop (v.) | stop moving (reflexv.)
 	- **detrás (de)** = behind (prep.), at the back of (prep.)
 	- **desvestir(se)** = undress (v.)	
 	- **de tanto en tanto** = once in a while (adv.)
@@ -163,6 +168,7 @@
 	- **encender** = turn on (v.), switch on (v.)
 	- **en cuanto a** = with regard to (adv.)
 	- **encuentro, el** = meeting (n.)
+	- **enfrente** = in front of (adv.) | [de] facing (adv.) | [de] opposite (adv.)
 	- **enfurecido/-a** = enraged (adj.), maddened (adj.)
 	- **engañar** = trick (v.), fool (v.), deceive (v.)
 	- **en persona** = in person (adv.)
@@ -224,6 +230,7 @@
 	- **intrigar** = intrigue (v.) | scheme (v.), plot (v.)
 	- **inversión, la** = investment (n.)
 ## J
+	- **jarabe, el** = syrup (n.)
 	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
 	- **jubilar(se)** = retire
 	- **justo** = fair (adj.) | just (adv.)
@@ -231,6 +238,7 @@
 ## L
 	- **lejos** = far away (adv.)
 		- **a lo lejos** = in the distance (ph.)
+	- **leve** = mild (adj.)
 	- **ley, la** = law (n.)
 	- **leyenda, la** = legend (n.)
 	- **lider/-esa el, la** = leader
@@ -292,9 +300,11 @@
 		- **para siempre** = forever (adv.)
 		- **para ti** = for you (ph.) 
 		- **para variar** = for change (ph.)
-	- **parecido/-a** = similar (adj.)
+	- **parecido, el** = resemblance (n.)
+		- **parecido/-a** = similar (adj.)
 		- **parecidamente** = similarly
 	- **pared, la** = wall (n.) | slope, hillside (n.)
+	- **pareja, la** = couple (n.) | partner (n.)
 	- **paso, el** = step (n.)
 	- **patio, el** = courtyard (n.) | backyard (n.) | orchestra section (n.)
 	- **pedir** = ask for, request (v.) | order [in a restaurant] (v.)
@@ -303,7 +313,8 @@
 	- **perder** = lose (v.)
 		- **perder los nervios** = lose the cool (ph.), freak out (v.)
 	- **perseguir** = chase (v.), pursue (v.)
-	- **pie** = foot (n.) | bottom (n.) | end (n.)
+	- **pie, el** = foot (n.) | bottom (n.) | end (n.)
+	- **piel, la** = skin (n.)
 	- **piedra, la** = stone, rock (n.) | hailstone (n.)
 	- **piragüismo, el** = canoeing (n.), kayaking (n.)
 	- **pirámide, la** = pyramid (n.)
@@ -355,6 +366,7 @@
 		- **preocupado/-a** = uneasy (adj.), concerned (adj.) 
 	- **prestado** = borrowed (partic.)
 	- **pretendiente, el/la** = candidate (n.) | suitor (n.)
+	- **principiante, el** = beginner (n.)
 	- **provecho, el** = benefit (n.), advantage (n.)
 	- **pulmon, el** = lung (n.)
 ## Q
@@ -434,9 +446,11 @@
 	- **tomar el sol** = sunbathe (v.)
 	- **tomo, el** = volume
 	- **torpe** = clumsy (adj.), butterfingered (adj.)
+	- **tos, la** = cough (n.)
 	- **traer** = bring (v.)
 	- **tras** = after (prep.) | behind (prep.)
 	- **trasero/-a** = back (adj.), rear (adj.)
+	- **tratamiento** = treatment [cure] (n.) | form of address (n.) | data processing (n.)
 	- **tratar** = look at (v.) | have dealings with (v.) | treat
 		- **tratarse de** = be about (reflexv.)
 ## U
