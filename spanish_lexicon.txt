@@ -1,5 +1,6 @@
 # Spanish Dictionary
 ## A
+	- **abrazar(se)** = hug (v.) | adopt (v.) | hug (reflexv.)
 	- **acabar** = end (v.), finish (v.), complete (n.)
 	- **acento, el** = accent (n.)
 	- **acercar(se)** = move close (v.), approach (v.)
@@ -49,6 +50,7 @@
 	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **asistir** = attend (v.)
 	- **asustar(se)** = scare (v.), frighten (v.) | get scared (reflexv.)
+		- **asustado/-a** = frightened (adj.), scared (adj.)
 	- **atardecer** = get dark, grow dark (v.)
 		- **atardecer, el** = dusk (n.) , twilight (n.), evening (n.), sunset (v.)
 	- **atender** = look after (v.) | pay attention (v.)
@@ -67,6 +69,7 @@
 	- **banca, la** = bank (n.) | bench (n.)
 	- **bajo** = beneath (prep.) | under (prep.)
 	- **belleza, la** = beauty (n.) | inner beauty (n.)
+	- **besar(se)** = kiss (v.) | fall face down (v.), be knocked flat (v.) | kiss each other (reflexv.)
 	- **bienestar, el** = well-being (n.)
 	- **Blancanieves** = Snow White (n.)
 	- **blando/-a** = soft (adj.)
@@ -120,6 +123,7 @@
 	- **conducir** = drive (v.)
 	- **confio en** = trust (v.)
 	- **conmemorar** = commemorate (v.)
+	- **conocer(se)** = know (v.) | see (v.), visit (v.) | be familiar with (v.) | be friends (reflexv.) | know each other (reflexv.) | meet (reflexv.)
 	- **conseguir** = get (v.), obtain (v.)
 		**conseguir [hacer algo]** = manage [to do sth]
 	- **constatemente** = constantly (adv.)
@@ -138,6 +142,7 @@
 	- **cubrir** = cover up (v.)| cover (v.)
 	- **cuello, el** = neck, collar (n.)
 	- **cuerpo, el** = body (n.)
+	- **culpable** = guilty (adj.)
 ## D
 	- **darse cuenta (de algo)** = notice (v.)| realise (v.)
 	- **datar** = date back to (v.), date from (v.)
@@ -148,6 +153,7 @@
 	- **dedo, el** = finger (n.) | toe (n.)
 	- **delante (de)** = in front of (adv.)
 	- **demostrar** = demonstrate (v.), show (v.)
+	- **denuncia, la** = complaint (n.)
 	- **depresión, la** = depression (n.)
 		- **depresión economica** = economic depression (ph.)
 		- **depresión estacional** = seasonal depression (ph.)
@@ -168,6 +174,8 @@
 		- **desnudo/-a** = naked
 	- **desorden, el** = disturbance (n.), mess (n.) | uproar (n.)
 		- **Qué desorden!** = What a mess!
+	- **despedir(se)** = emit (v.) | fire (v.) | say goodbye (reflexv.)
+		- **despedirse de** = quit [job] (reflexv.)
 	- **despejar(se)** = clear (v.)
 	- **destapar(se)** = take the lid off (v.) | uncover (v.) | reveal yourself (reflexv.)
 	- **detalle, el** = detail (n.)
@@ -183,10 +191,15 @@
 	- **durante** = during (prep.)
 	- **divorciar(se)** = divorce (v.), get divorced (v.)
 ## E
+	- **echar(se)** = throw (v.) | pour [liquid] (v.) | lay down (reflexv.) | move (reflexv.)
+		- **echar de menos** = miss (v.)
+		- **echar de ver** = take notice (v.)
 	- **ejercer** = practise a profession (v.), work as (v.)
 	- **elegir** = choose (v.)
+	- **embajada, la** = embassy (n.)
 	- **embarazo, el** = pregnancy (n.)
 	- **empeñar(se)** = pawn (v.) | insist on (reflexv.)
+	- **empleado, el** = employee (n.)
 	- **empujar** = push (v.)
 	- **encandenar** = chain (v.)
 	- **encender** = turn on (v.), switch on (v.)
@@ -208,6 +221,7 @@
 	- **en verdad** = really (adv.), truly (adv.)
 	- **envidia, la** = envy (n.)
 		- **Qué envidia!** = I am so jealous! (ph.)
+	- **entre sí** = each other (adv.), with each other (adv.)
 	- **escena, la** = scene (n.)
 	- **escoger** = pick (v.), choose (v.)
 	- **escurrir** = drain (v.)
@@ -217,6 +231,7 @@
 	- **estar por [hacer algo]** = be on the verge to do something (ph.) | in favour of (adv.)
 	- **estilo, el** = style, fashion (n.)
 	- **estirar(se)** = stretch (v.) | iron (v.) | stretch (reflexv.)
+	- **estrellar** = crack (v.) | fry (v.) | shine with stars (reflexv.) | fail (reflexv.) | crash to each other (reflexv.)
 	- **etapa, la** = stage (n.), phase (n.)
 	- **evadir(se)** = evade (v.), dodge (v.) | escape (reflexv.)
 	- **exactidud** = accuracy (n.), precision (n.)
@@ -263,9 +278,11 @@
 	- **imperdible** = unmissable (adj.), must-see (adj.)
 	- **importat** = matter (v.)
 	- **incluso** = even (adv.)
+	- **inocente** = innocent (adj.)
 	- **inolvidable** = unforgettable (adj.)
 	- **insinuar** = imply (v.), insinuate (v.), hint (v.)
 	- **instrucción, el** = education (n.) | training (n.)
+	- **intercambiar** = exchange (v.)
 	- **intrigar** = intrigue (v.) | scheme (v.), plot (v.)
 	- **inversión, la** = investment (n.)
 ## J
@@ -275,6 +292,7 @@
 	- **justo** = fair (adj.) | just (adv.)
 ## K
 ## L
+	- **ladrón/-a el, la** = thief (n.)
 	- **lejos** = far away (adv.)
 		- **a lo lejos** = in the distance (ph.)
 	- **leve** = mild (adj.)
@@ -283,6 +301,8 @@
 	- **lider/-esa el, la** = leader
 	- **linterna, la** = torch (n.), flashlight (n.)
 	- **lirio, el** = lily (n.)
+	- **llevar** = carry (v.) | wear (v.) | deal with (v.) | drive (v.)
+		 **llevar bien los años** = look good for your age (ph.)
 	- **llorar** = cry (v.)
 	- **lograr** = manage (v.)| reach (v.)
 	- **los dos** = both (pron.) [informal] [see **ambos**]
@@ -308,9 +328,12 @@
 	- **mojado/-a** = wet (adj.) 
 	- **molestar(se)** = bother (v.), disturb (v.) | be offended (reflexv.)
 		- **molestarse en** = take the trouble to (prep.)
+		- **molestia, la** = bother (n.), annoyance (n.), inconvenience (n.)
 	- **mudar(se)** = change (v.) | move away (reflexv.), relocate (reflexv.) | get changed (reflexv.)
 	- **mueble, el** = furniture (n.)
+	- **muérdago, el** = mistletoe (n.)
 	- **muñeca, la** = doll (n.)
+	- **mutuamente** = mutually (adv.), reciprocally (adv.) [see recíprocamente]
 ## N
 	- **nacer** = born (v.)
 	- **nadar** = swim (v.)
@@ -334,6 +357,11 @@
 	- **oponer(se)** = put up (v.), oppose (v.), be against (reflexv.), disagree with (reflexv.)
 	- **orilla, la** = shore (n.)
 	- **oso/-a, el, la** = bear (n.)
+	- **otra vez** = again (adv.), once again (adv.)
+		- **la otra vez** = last time (adv.)
+		- **una que otra vez** = every once in a while (adv.)
+		- **una y otra vez** = time after time (adv.)
+
 ## P
 	- **panza, la** = belly (n.)
 	- **papel** = paper (n.)
@@ -356,6 +384,7 @@
 		- **pedir prestado** = ask to borrow (ph.)
 		- **pedida, la** = proposal (n.)
 	- **peinar(se)** = clear (v.) |brush your hair (reflexv.), style your hair (reflexv.), comb (reflexv.)
+	- **pelear(se)** = fight (v.) | argue (v.) | be rivals (v.) | have a fight with (reflexv.), get into a fight with (reflexv.)
 	- **perder** = lose (v.)
 		- **perder los nervios** = lose the cool (ph.), freak out (v.)
 	- **perseguir** = chase (v.), pursue (v.)
@@ -432,6 +461,9 @@
 	- **rascarcielos, el** = skyscraper (n.)
 	- **reaccionar** = react (v.)
 	- **realidad, la** = reality (n.)
+	- **recíproco/-a** = mutual (adj.), reciprocal (adj.)
+		- **interés recíproco** = mutual interest (ph.), common interest (ph.)
+		- **recíprocamente** = mutually (adv.) [see mutuamente]
 	- **recordar** = remember (v.)
 	- **recuerdo** = memory (n.) | souvenir (n.) | 
 		- **recuerdos** = regards (ph.)
@@ -478,6 +510,9 @@
 	- **señal, la** = sign (n.)
 	- **senderismo, el** = hiking (n.)
 	- **sentar(se)** = sit (v.)
+	- **sentimiento, el** = feeling (n.) , emotion (n.)
+		- **lleno de sentimiento** = full of feeling (ph.), soulful (adj.), touching (adj.)
+		- **sentimiento de culpa** = guilty feeling (ph.)
 	- **sentir** = feel (v.), sense (v.) | hear (v.) | taste (v.)
 	- **sigla, la** = initials (n.)
 	- **siglo, el** = century
@@ -524,6 +559,7 @@
 		- **tratarse de** = be about (reflexv.)
 ## U
 	- **ubicado/-a** = located (adj.) | situated (adj.)
+	- **uno a(l) otro = each other (adv.)
 	- **urbanita** = city dweller (adj.)
 ## V
 	- **valiente** = brave (adj.), courageous (adj.)	
