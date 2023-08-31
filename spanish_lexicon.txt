@@ -347,6 +347,8 @@
 ## H
 	- **hábito, el** = habit (n.)
 	- **hace** = ago (adv.)
+		- **hace mucho tiempo** = a long time ago (ph.)
+		- **hace poco tiempo** = a short time ago (ph.)
 	- **hacer falta** = be needed (v.)
 		- **no hacer falta** = not be needed (v.)
 	- **hacia** = towards (prep.) | around (prep.), approximately (prep.)
