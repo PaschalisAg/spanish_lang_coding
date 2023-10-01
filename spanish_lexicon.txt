@@ -47,6 +47,7 @@
 	- **ahorita** = right now (adv.) | in a minute (ph.) | shortly (adv.)
 	- **ahorrar(se)** = save (v.), put away (v.) | save yourself (reflexv.)
 	- **ajedrez, el** = chess (n.)
+	- **a la vez** = at the same time (adv.)
 	- **albañil, el/la** = builder (n.), construction worker (n.)
 	- **alcalde/-sa, el/la** = mayor (n.)
 	- **alcance, el** = range (n.), reach (n.) | significance (n.), importance (n.)
@@ -67,9 +68,11 @@
 	- **a lo mejor** = probably (adv.), maybe (adv.)
 	- **alrededor** = around (adv.) | surrounding area (n.)
 		- **a mi alrededor** = around me (ph.)
+	- **alta, el** = discharge (n.) | membership (n.)
 	- **a mano** = by hand (adv.), manually (adv.)
 		- **al alcance de la mano** = close at hand (adv.), within reach (adv.)
 	- **ambos** = both (pron.) [formal] [see **los dos**]
+	- **amenaza, la** = threat (n.)
 	- **amistad, la** = friendship (n.)
 	- **amo/-a, el/la** = owner (n.), master (n.)
 	- **ampliación, la** = extension (n.)
@@ -96,6 +99,7 @@
 	- **a ratos** = from time to time (adv.)
 	- **ardilla, la** = squirrel (n.)
 	- **arena, la** = sand (n.) | bullring (n.)
+	- **arete, el** = earring (n.)
 	- **arreglado/-a** = dressed up (adj.), well-dressed (adj.)
 	- **arriesgar(se)** = risk (v.), endanger (v.) | put yourself at risk (reflexv.)
 	- **armar(se)** = arm (v.) | assemble (v.) | arm yourself (reflexv.)
@@ -214,6 +218,7 @@
 	- **charco, el** = puddle (n.)
 	- **chévere** = neat (adj.), splendid (adj.), awesome (adj.)
 		- **Chévere!** = Awesome! (ph.), Cool! (ph.)
+	- **chistoso/-a** = funny (adj.), amusing (adj.)
 	- **cicatriz, la** = scar (n.)
 	- **cielo, el** = sky
 	- **cima, la** = summit (n.), peak (n.), top (n.) | zenith (n.)
@@ -235,6 +240,7 @@
 	- **comprobar** = confirm (v.) | check (v.), test (v.) | prove (v.)
 	- **comprensivo** = understanding (adj.)
 	- **con antelación** = beforehand (adv.), in advance (adv.)
+	- **conciencar(se)** = raise awareness (v.) | become aware (reflexv.)
 	- **conducir** = drive (v.)
 	- **confio en** = trust (v.)
 	- **conjunto** = combination (n.) | outfit (n.) | group (n.) | joint (adj.)
@@ -272,6 +278,7 @@
 	- **culpable** = guilty (adj.)
 	- **cura, la** = cure (n.), treatment (n.) | priest (n.)
 ## D
+	- **dañar(se)** = damage (v.), destroy (v.), ruin (v.) | break down (reflexv.)
 	- **dar de alta** = discharge (v.)
 	- **dar pena** be sad (v.), make [sb] feel sorry (v.)
 	- **dar por seguro** = take for granted (v.), be sure (v.)
@@ -442,6 +449,7 @@
 	- **facturación, la** = billing (n.) | check-in (n.)
 	- **falda, la** = skirt (n.) | slope (n.)
 	- **faltar** = be short of (v.), to be lacking (v.)
+	- **farola, la** = lamppost (n.), streetlight (n.)
 	- **fascinar** = be fascinated (v.)
 	- **fastidiar** = annoy (v.)
 	- **fiar** = sell on credit (v.) | vouch for (v.)
@@ -494,6 +502,7 @@
 	- **herir(se)** = wound (v.) | hurt yourself (reflexv.)
 		- **herida, la** = wound (n.)
 	- **hervir** = boil (v.)
+	- **hinchado/-a** = swollen (adj.)
 	- **hogar, el** = household (n.)
 	- **hoguera, la** = bonfire (n.), campfire (n.)
 	- **hondo/-a** = deep (adj.)
@@ -503,6 +512,7 @@
 	- **huella, la** = footprint (n.) | trace (n.), remnant (n.)
 	- **hueso, el** = bone (n.)
 	- **huir** = run away (v.) , flee (v.)
+	- **huracán, el** = hurricane (n.)
 ## I
 	- **igualmente** = equally (adv.), likewise (adv.)
 	- **inversor, el** = investment (n.)
@@ -535,6 +545,7 @@
 	- **jaula, la** = cage (n.), pet carrier (n.) | prison (n.)
 	- **joyería, la** = jewellery shop (n.) | jewellery (n.)
 	- **jubilar(se)** = retire
+	- **juez, el** = judge (n.)
 	- **jungla, la** = jungle
 		- **jungla de cemento** = concrete jungle (n.)
 		- **jungla de asfalto** = concrete jungle (n.)
@@ -606,7 +617,7 @@
 	- **mudar(se)** = change (v.) | move away (reflexv.), relocate (reflexv.) | get changed (reflexv.)
 	- **mueble, el** = furniture (n.)
 	- **muérdago, el** = mistletoe (n.)
-	- **muñeca, la** = doll (n.)
+	- **muñeca, la** = doll (n.) | wrist (n.)
 	- **mostrador, el** = desk (n.), counter (n.)
 	- **mutuamente** = mutually (adv.), reciprocally (adv.) [see recíprocamente]
 ## N
@@ -630,6 +641,7 @@
 		- **ni qué cojones** = bollocks! no bloody way (ph.)
 	- **no obstante** = however (adv.) | despite (adv.)
 	- **nombrar** = name (v.), call (v.)
+	- **normativa, la** = regulations (n.), rules (n.)
 	- **noticiero, el** = news (n.), news bulletin (n.)
 	- **nudo, el** = knot (n.)
 ## O
@@ -713,6 +725,8 @@
 	- **playera, la** = T-shirt for the beach (n.) | flip-flop (n.)
 	- **plazo, el** = period (n.) | due date (n.), deadline (n.)
 	- **plomero/-a, el/la** = plumber (n.)
+	- **póliza, la** = policy (n.)
+		- **póliza de seguro** = insurance policy (n.)
 	- **ponchar** = puncture (v.)
 	- **ponencia, la** = talk (n.), presentation (n.) | paper (n.), report (n.)
 	- **poner de pie** = stand up (v.)
@@ -749,7 +763,7 @@
 			- **por si acaso** = just in case (ph.)
 		- **por siempre** = forever (adv.)
 		- **por suerte** = luckily (adv.)
-		- ** por supuesto** = of course (ph.)
+		- **por supuesto** = of course (ph.)
 		- **por todos lados** = everywhere (adv.)
 		- **por todas partes** = everywhere (adv.)
 		- **por ultimo** = finally (adv.)
